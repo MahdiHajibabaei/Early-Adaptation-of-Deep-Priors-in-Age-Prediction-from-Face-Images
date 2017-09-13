@@ -1,0 +1,18 @@
+net: "/home/rrothe/git/chalearn/code/models/morph/2_1_train_val.prototxt"
+test_state: {stage: 'test-on-train'}
+test_iter: 200
+test_state: {stage: 'test-on-test'}
+test_iter: 200
+test_interval: 500
+base_lr: 0.0001 
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2000
+display: 50
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 500
+snapshot_prefix: "/home/rrothe/git/chalearn/code/data/morph_2_1"
+solver_mode: GPU
+device_id: 0

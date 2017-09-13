@@ -1,0 +1,17 @@
+net: "/home/hmahdi/caffe/examples/morph/fine-tuning/Learning_curve_prototxts_3/DEX_0.00375_13.prototxt"
+test_state: {stage: 'test-on-train'}
+test_iter: 45
+test_state: {stage: 'test-on-test'}
+test_iter: 71
+test_interval: 10
+base_lr: 0.000100
+lr_policy: "step"
+gamma: 0.100000
+stepsize: 10
+display: 100
+max_iter: 50
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 50
+snapshot_prefix: "/srv/glusterfs/hmahdi/IMDB/LC_snapshot_3/Fine_tune_0.00375_13"
+solver_mode: GPU

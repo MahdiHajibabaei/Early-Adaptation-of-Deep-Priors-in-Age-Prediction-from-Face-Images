@@ -1,0 +1,9 @@
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/256053_00M28.JPG_face.jpg 28
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/270843_02M25.JPG_face.jpg 25
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/321567_03M41.JPG_face.jpg 41
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/100143_01M36.JPG_face.jpg 36
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/059894_7M41.JPG_face.jpg 41
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/111499_0M37.JPG_face.jpg 37
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/110776_00M44.JPG_face.jpg 44
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/233829_02M27.JPG_face.jpg 27
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/197388_02M29.JPG_face.jpg 29

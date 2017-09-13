@@ -1,0 +1,13 @@
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/88/nm0000288_rm3558058496_1974-1-30_2012.jpg 38
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/53/nm0001853_rm1843758592_1963-3-18_2004.jpg 41
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/69/nm1599769_rm1629002240_1981-11-26_1999.jpg 18
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/36/nm0000336_rm580235264_1928-8-31_1964.jpg 36
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/13/nm0001813_rm1158150912_1925-12-13_1964.jpg 39
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/90/nm0035790_rm343316992_1971-9-18_2005.jpg 34
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/49/nm0000849_rm980851456_1969-3-1_2002.jpg 33
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/65/nm1444665_rm106540288_1976-7-21_2013.jpg 37
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/52/nm3441152_rm337223936_1994-8-22_2013.jpg 19
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/13/nm2955013_rm2427048704_1990-1-13_2013.jpg 23
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/77/nm0692677_rm160475648_1991-10-18_2011.jpg 20
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/19/nm0387319_rm2784725760_1974-12-26_2009.jpg 35
+/srv/glusterfs/hmahdi/IMDB/imdb_crop/18/nm0001718_rm2469041920_1965-8-19_2005.jpg 40

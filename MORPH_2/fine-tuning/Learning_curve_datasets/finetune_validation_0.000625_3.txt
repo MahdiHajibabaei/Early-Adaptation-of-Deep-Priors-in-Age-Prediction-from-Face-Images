@@ -1,0 +1,3 @@
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/150629_02M53.JPG_face.jpg 53
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/286913_07F25.JPG_face.jpg 25
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/morph/Album2/322191_00M17.JPG_face.jpg 17
