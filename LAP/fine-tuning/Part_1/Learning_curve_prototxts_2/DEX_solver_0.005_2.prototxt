@@ -1,0 +1,17 @@
+net: "/home/hmahdi/caffe/examples/imdb/Pre-training_distribution/Learning_curve_prototxts_2/DEX_0.005_2.prototxt"
+test_state: {stage: 'test-on-train'}
+test_iter: 45
+test_state: {stage: 'test-on-test'}
+test_iter: 71
+test_interval: 13
+base_lr: 0.000100
+lr_policy: "step"
+gamma: 0.100000
+stepsize: 13
+display: 100
+max_iter: 65
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 65
+snapshot_prefix: "/srv/glusterfs/hmahdi/IMDB/learning_curve_snapshots_2/Fine_tune_0.005_2"
+solver_mode: GPU

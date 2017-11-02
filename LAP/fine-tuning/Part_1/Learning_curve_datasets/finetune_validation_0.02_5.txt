@@ -1,0 +1,12 @@
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_2523.jpg_face.jpg 28
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_1897.jpg_face.jpg 38
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_2668.jpg_face.jpg 36
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_76.jpg_face.jpg 23
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_211.jpg_face.jpg 28
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_796.jpg_face.jpg 39
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_4363.jpg_face.jpg 57
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_749.jpg_face.jpg 9
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_390.jpg_face.jpg 43
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_2934.jpg_face.jpg 24
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3052.jpg_face.jpg 36
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_1658.jpg_face.jpg 25

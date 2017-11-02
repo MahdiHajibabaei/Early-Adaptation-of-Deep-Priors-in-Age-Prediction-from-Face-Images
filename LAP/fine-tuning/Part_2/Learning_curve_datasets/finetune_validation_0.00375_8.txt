@@ -1,0 +1,2 @@
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_212.jpg_face.jpg 19
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3769.jpg_face.jpg 22

@@ -1,0 +1,6 @@
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3720.jpg_face.jpg 28
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3770.jpg_face.jpg 27
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3973.jpg_face.jpg 18
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_2302.jpg_face.jpg 16
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_1855.jpg_face.jpg 23
+/srv/glusterfs/aeirikur/rrothe/results/chalearn/chalearn_data/train/image_3000.jpg_face.jpg 26
