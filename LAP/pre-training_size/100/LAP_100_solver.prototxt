@@ -1,0 +1,18 @@
+net: "/srv/glusterfs/hmahdi/IMDB/models/smaller_pretraining/100/LAP_100.prototxt"
+test_state: {stage: 'test-on-train'}
+test_iter: 1000
+test_state: {stage: 'test-on-test'}
+test_iter: 1000
+test_interval: 250
+base_lr: 0.000100
+lr_policy: "step"
+gamma: 0.100000
+stepsize: 27
+display: 250
+max_iter: 68
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 25000
+snapshot_prefix: "/srv/glusterfs/hmahdi/IMDB/models/smaller_pretraining_snapshots/imdb_LAP_Matched_100"
+solver_mode: GPU
+

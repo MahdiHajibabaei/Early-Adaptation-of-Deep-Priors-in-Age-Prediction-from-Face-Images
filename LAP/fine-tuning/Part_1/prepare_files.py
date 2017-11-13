@@ -1,6 +1,6 @@
 
 # This script prepares all the files needed for the part one of the experiment; different experiments can be designed by only changing the parameters in this script.
-# Warning: if the datasets are recreated the results will be diffrent because the random re-sampling used would yield tha same datasets.
+# Warning: if the datasets are recreated the results will be diffrent because the random re-sampling used would not yield tha same datasets.
 
 import numpy as np
 import matplotlib.mlab as mlab
@@ -13,9 +13,9 @@ import random
 #Current working directory of this python script
 CWD='/home/hmahdi/caffe/examples/imdb/Pre-training_distribution/'
 # 80% of the ChaLearn training set augmented with 11 rotations used as training set 1981*11 samples
-Trainlist='/home/hmahdi/caffe/examples/imdb/Pre-training_distribution/chalearn_aug_train_80.txt'
+Trainlist=CWD+'chalearn_aug_train_80.txt'
 # 20% of the ChaLearn training set not augmented 495 samples used as validation set
-Validationlist='/home/hmahdi/caffe/examples/imdb/Pre-training_distribution/chalearn_train_20.txt'
+Validationlist=CWD+'chalearn_train_20.txt'
 # Whether to recreate the datasets or not
 Recreate_datasets=False
 
